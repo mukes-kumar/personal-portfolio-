@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/mukes/OneDrive/Desktop/JavaScriptsAll"
+		},
+		{
+			"path": "../Tic Toc Toe"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tic Toc Toe"
+	}
+}
